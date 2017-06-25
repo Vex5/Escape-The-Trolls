@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1482585386 source:c:\users\m3\desktop\prim\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Maze.h"
+	"Troll.h"
+
+1482585262 c:\users\m3\desktop\prim\maze.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Troll.h"
+
+1482585338 source:c:\users\m3\desktop\prim\maze.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	<stdexcept>
+	"Maze.h"
+	"Troll.h"
+
+1482584142 c:\users\m3\desktop\prim\troll.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+
+1482585346 source:c:\users\m3\desktop\prim\troll.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Troll.h"
+
+1498416851 source:c:\users\veda_\desktop\github\escape-the-trolls\escape-the-trolls\escape the trolls\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Maze.h"
+	"Troll.h"
+
+1498417186 c:\users\veda_\desktop\github\escape-the-trolls\escape-the-trolls\escape the trolls\maze.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Troll.h"
+
+1483992952 c:\users\veda_\desktop\github\escape-the-trolls\escape-the-trolls\escape the trolls\troll.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+
+1498150077 source:c:\users\veda_\desktop\github\escape-the-trolls\escape-the-trolls\escape the trolls\maze.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	<stdexcept>
+	"Maze.h"
+	"Troll.h"
+
+1483992952 source:c:\users\veda_\desktop\github\escape-the-trolls\escape-the-trolls\escape the trolls\troll.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Troll.h"
+
+1498437510 source:c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Maze.h"
+	"Troll.h"
+
+1498437108 c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\maze.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Troll.h"
+	"Player.h"
+
+1498433114 c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\troll.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+
+1498437505 source:c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\maze.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	<stdexcept>
+	"Maze.h"
+	"Troll.h"
+
+1498433081 source:c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\troll.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Troll.h"
+
+1498436474 source:c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\player.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	"Player.h"
+
+1498436474 c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\player.h
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+
+1498436058 c:\users\veda_\desktop\github\escape the trolls\escape-the-trolls\maze.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<utility>
+	<windows.h>
+	<stdexcept>
+	"Maze.h"
+	"Troll.h"
+
